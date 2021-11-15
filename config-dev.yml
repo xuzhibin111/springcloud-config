@@ -1,1 +1,2 @@
-this is springcloud-config dev
+config:
+  info: this is dev
